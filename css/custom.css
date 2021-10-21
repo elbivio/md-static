@@ -1,0 +1,10 @@
+#homeHeading {
+    color: black;
+    text-shadow: 1px 1px white;
+}
+h2 {
+    text-shadow: 1px 1px black;
+}
+.img-responsive {
+    margin: 0 auto;
+}
